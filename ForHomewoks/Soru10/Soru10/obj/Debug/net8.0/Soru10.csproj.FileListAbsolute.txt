@@ -1,0 +1,15 @@
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/bin/Debug/net8.0/Soru10
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/bin/Debug/net8.0/Soru10.deps.json
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/bin/Debug/net8.0/Soru10.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/bin/Debug/net8.0/Soru10.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/bin/Debug/net8.0/Soru10.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/Soru10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/Soru10.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/Soru10.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/Soru10.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/Soru10.sourcelink.json
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/Soru10.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/refint/Soru10.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/Soru10.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/Soru10.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru10/Soru10/obj/Debug/net8.0/ref/Soru10.dll
