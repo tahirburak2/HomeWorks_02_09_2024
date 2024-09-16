@@ -7,9 +7,9 @@ class Program
        System.Console.Write("Bir sayı giriniz: ");
        int girilen=int.Parse(Console.ReadLine());
        int toplam =0;
-       for (int i = 1; i < girilen+1; i++)
+       for (int i = 1; i <= girilen; i++)
        {
-        toplam=toplam+i;
+        toplam+=i;
 
        }
        System.Console.WriteLine($"{toplam}");

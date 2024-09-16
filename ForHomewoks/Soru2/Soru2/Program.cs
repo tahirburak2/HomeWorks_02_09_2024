@@ -7,11 +7,12 @@ class Program
         System.Console.Write("Bir sayı giriniz: ");
         int input = int.Parse(Console.ReadLine());
         int toplam =1;
-        for (int i = 1; i < input+1; i++)
+        for (int i = 1; i <= input; i++)
         {
-            toplam =i*i;
-            System.Console.WriteLine($"{toplam}//{i}^{i}");
+            toplam =i*i*i;
+            System.Console.WriteLine($"{toplam}={i}^{i}");
             
         }
+        
     }
 }

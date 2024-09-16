@@ -12,3 +12,4 @@
 /Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru1/obj/Debug/net8.0/Soru1.pdb
 /Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru1/obj/Debug/net8.0/Soru1.genruntimeconfig.cache
 /Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru1/obj/Debug/net8.0/ref/Soru1.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_02_09_2024/ForHomewoks/Soru1/obj/Debug/net8.0/Soru1.sourcelink.json
